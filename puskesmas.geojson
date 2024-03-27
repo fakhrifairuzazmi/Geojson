@@ -1,0 +1,359 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Tegalrejo",
+          "address": "Tegalrejo"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36152023445874,
+            -7.772582291050043
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Jetis",
+          "address": "Jetis"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36306574311538,
+            -7.78330006457351
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gondokusuman II",
+          "address": "Gondokusuman"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37095569086222,
+            -7.778681405601844
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gedongtengen",
+          "address": "Gedontengen"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35767606688131,
+            -7.789659570546846
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Danurejan I",
+          "address": "Danurejan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37756769229463,
+            -7.794480551253486
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            110.38112446125194,
+            -7.793774015689081
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gondomanan",
+          "address": "Gondomanan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3714061886505,
+            -7.803872404885382
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Keraton",
+          "address": "Keraton"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36520047813616,
+            -7.807364635498388
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mergangsan",
+          "address": "Mergangsan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3751307401576,
+            -7.811130811750857
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Ngampilan",
+          "address": "Ngampilan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35667972253896,
+            -7.8026651994671
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            110.34162350994222,
+            -7.801640440753161
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mantrijeron",
+          "address": "Mantrijeron"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36180639598683,
+            -7.819269776689225
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kasihan II",
+          "address": "Kasihan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.34040731364047,
+            -7.826782759366424
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gamping 1",
+          "address": "Gamping"
+        },
+        "geometry": {
+          "coordinates": [
+            110.32353823384153,
+            -7.80021149244817
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Godean I",
+          "address": "Godean"
+        },
+        "geometry": {
+          "coordinates": [
+            110.29163416484533,
+            -7.763512103418776
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Sleman",
+          "address": "Sleman"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3476495669982,
+            -7.701799900502138
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Rawat Inap Sleman",
+          "address": "Sleman"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36752810798964,
+            -7.689737948429311
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Banguntapan II",
+          "address": "Banguntapan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38701329637962,
+            -7.83681900879985
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Sewon II",
+          "address": "Sewon"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36254156203984,
+            -7.841041641834138
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Sewon I",
+          "address": "Sewon"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35201502789317,
+            -7.861664061596258
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pleret",
+          "address": "Pleret"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38969606859746,
+            -7.863600151317698
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pembantu Bantul",
+          "address": "Bantul"
+        },
+        "geometry": {
+          "coordinates": [
+            110.33084052131761,
+            -7.880221699091209
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Bantul II",
+          "address": "Bantul"
+        },
+        "geometry": {
+          "coordinates": [
+            110.330503068079,
+            -7.87307916073172
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Bantul I",
+          "address": "Bantul"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3214162460846,
+            -7.900385042289514
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      }
+    ]
+  }
