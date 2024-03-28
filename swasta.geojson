@@ -1,0 +1,764 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas AMIKOM Yogyakarta",
+                "Alamat": "Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+                "Akreditasi": "B"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.40720075992306,
+                            -7.76016986010373
+                          ],
+                          [
+                            110.40913987385369,
+                            -7.760743969896879
+                          ],
+                          [
+                            110.41011715637183,
+                            -7.759484754724184
+                          ],
+                          [
+                            110.40825529797735,
+                            -7.758834094950672
+                          ],
+                          [
+                            110.40720075992306,
+                            -7.76016986010373
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Islam Indonesia (UII)",
+                "Alamat": "Jl. Kaliurang No.Km. 14,5, Krawitan, Umbulmartani, Kec. Ngemplak, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55584",
+                "Akreditasi": "Unggul"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.41868083189854,
+                            -7.688254882974732
+                          ],
+                          [
+                            110.41876531448673,
+                            -7.687220289392499
+                          ],
+                          [
+                            110.41561694330062,
+                            -7.687241204307952
+                          ],
+                          [
+                            110.4094327734013,
+                            -7.685520589601296
+                          ],
+                          [
+                            110.40892758578991,
+                            -7.686832631728919
+                          ],
+                          [
+                            110.41142448563164,
+                            -7.687505914745586
+                          ],
+                          [
+                            110.41104460130373,
+                            -7.689253004195109
+                          ],
+                          [
+                            110.41333104711322,
+                            -7.68986653113798
+                          ],
+                          [
+                            110.4149070757959,
+                            -7.690380846362814
+                          ],
+                          [
+                            110.41610913441798,
+                            -7.689666101975831
+                          ],
+                          [
+                            110.41664215602748,
+                            -7.688023497774594
+                          ],
+                          [
+                            110.41868083189854,
+                            -7.688254882974732
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Janabadra (UJB)",
+                "Alamat": "Jl. Tentara Rakyat Mataram No.58, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231",
+                "Akreditasi": "B"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.35775318741797,
+                            -7.783331002579751
+                        ],
+                        [
+                            110.35723015666007,
+                            -7.783241976367862
+                        ],
+                        [
+                            110.35721406340599,
+                            -7.783255263863379
+                        ],
+                        [
+                            110.35721138119696,
+                            -7.7832871538508925
+                        ],
+                        [
+                            110.35714834928513,
+                            -7.783560876143892
+                        ],
+                        [
+                            110.3570182621479,
+                            -7.784269098528734
+                        ],
+                        [
+                            110.35695791244507,
+                            -7.784557436380146
+                        ],
+                        [
+                            110.357486307621,
+                            -7.784665064743891
+                        ],
+                        [
+                            110.35775318741797,
+                            -7.783331002579751
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Kristen Duta Wacana (UKDW)",
+                "Alamat": "Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+                "Akreditasi": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.3783592581749,
+                            -7.785104879128217
+                        ],
+                        [
+                            110.37826403975487,
+                            -7.78555930921571
+                        ],
+                        [
+                            110.37817686796188,
+                            -7.785552665504535
+                        ],
+                        [
+                            110.37802934646606,
+                            -7.786659506334071
+                        ],
+                        [
+                            110.37789657711981,
+                            -7.7866621638115365
+                        ],
+                        [
+                            110.37783086299896,
+                            -7.787179042858014
+                        ],
+                        [
+                            110.37842497229576,
+                            -7.787270725707129
+                        ],
+                        [
+                            110.37879310548304,
+                            -7.785128132141725
+                        ],
+                        [
+                            110.37841960787773,
+                            -7.785105543500048
+                        ],
+                        [
+                            110.3783592581749,
+                            -7.785104879128217
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Muhammadiyah Yogyakarta (UMY)",
+                "Alamat": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183",
+                "Akreditasi": "Unggul",
+                "url": "data:image/jpeg;base64,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"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.32427918943108,
+                            -7.809051903622688
+                          ],
+                          [
+                            110.31863038781518,
+                            -7.809454523343732
+                          ],
+                          [
+                            110.31863038781518,
+                            -7.814688544395153
+                          ],
+                          [
+                            110.32395407854699,
+                            -7.815010635855202
+                          ],
+                          [
+                            110.32427918943108,
+                            -7.809051903622688
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas 'Aisyiyah",
+                "Alamat": "Jl. Siliwangi No.63, Area Sawah, Nogotirto, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55292",
+                "Akreditasi": "Unggul"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.33416267272662,
+                            -7.768911298742623
+                          ],
+                          [
+                            110.33493370938419,
+                            -7.766541688920157
+                          ],
+                          [
+                            110.33386142351355,
+                            -7.766462988934066
+                          ],
+                          [
+                            110.33316926014771,
+                            -7.767210638205626
+                          ],
+                          [
+                            110.33155799460593,
+                            -7.766929567207669
+                          ],
+                          [
+                            110.33129701497597,
+                            -7.76769407988327
+                          ],
+                          [
+                            110.33227219295895,
+                            -7.768300766659152
+                          ],
+                          [
+                            110.33416267272662,
+                            -7.768911298742623
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fill": "#ff0000",
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas PGRI Yogyakarta (UPY)",
+                "Alamat": "Jl. IKIP PGRI I Sonosewu No.117, Sonosewu, Ngestiharjo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55182",
+                "Akreditasi": "B"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.34110069274902,
+                            -7.804793739870636
+                        ],
+                        [
+                            110.34107521176337,
+                            -7.804978426511339
+                        ],
+                        [
+                            110.3411141037941,
+                            -7.805020944287577
+                        ],
+                        [
+                            110.34082308411598,
+                            -7.805951019560582
+                        ],
+                        [
+                            110.34086868166924,
+                            -7.805986893851082
+                        ],
+                        [
+                            110.34073054790497,
+                            -7.8064545880233
+                        ],
+                        [
+                            110.34141719341277,
+                            -7.806519693136462
+                        ],
+                        [
+                            110.34159287810326,
+                            -7.80601346739762
+                        ],
+                        [
+                            110.34174978733063,
+                            -7.806054656391405
+                        ],
+                        [
+                            110.34192681312561,
+                            -7.805495282935397
+                        ],
+                        [
+                            110.34200459718704,
+                            -7.805476681429945
+                        ],
+                        [
+                            110.34213602542877,
+                            -7.805115280588147
+                        ],
+                        [
+                            110.34110069274902,
+                            -7.804793739870636
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Sanata Dharma",
+                "Alamat": "Jl. Affandi, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+                "Akreditasi": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.42165011167525,
+                            -7.753173954084935
+                        ],
+                        [
+                            110.42155623435974,
+                            -7.753670941709606
+                        ],
+                        [
+                            110.42143821716309,
+                            -7.753654995591714
+                        ],
+                        [
+                            110.42125582695007,
+                            -7.754702122716136
+                        ],
+                        [
+                            110.42105197906494,
+                            -7.754654284477927
+                        ],
+                        [
+                            110.4209554195404,
+                            -7.75513266661532
+                        ],
+                        [
+                            110.42069792747498,
+                            -7.755100774489748
+                        ],
+                        [
+                            110.42062819004059,
+                            -7.755510056584352
+                        ],
+                        [
+                            110.42051017284393,
+                            -7.755483479837056
+                        ],
+                        [
+                            110.42040288448334,
+                            -7.7561000599420815
+                        ],
+                        [
+                            110.42149186134338,
+                            -7.7563179889009675
+                        ],
+                        [
+                            110.42159378528595,
+                            -7.756349880934264
+                        ],
+                        [
+                            110.42184054851532,
+                            -7.7563817729651445
+                        ],
+                        [
+                            110.42188346385956,
+                            -7.756062852547569
+                        ],
+                        [
+                            110.4217654466629,
+                            -7.756036275835183
+                        ],
+                        [
+                            110.42183518409729,
+                            -7.755403749585079
+                        ],
+                        [
+                            110.42194247245789,
+                            -7.755425010987076
+                        ],
+                        [
+                            110.42206585407257,
+                            -7.75478716845954
+                        ],
+                        [
+                            110.42235016822815,
+                            -7.754824375966873
+                        ],
+                        [
+                            110.42241454124449,
+                            -7.754484192920205
+                        ],
+                        [
+                            110.42287588119507,
+                            -7.754542661900931
+                        ],
+                        [
+                            110.4231870174408,
+                            -7.753354676925449
+                        ],
+                        [
+                            110.42165011167525,
+                            -7.753173954084935
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Teknologi Yogyakarta (UTY)",
+                "Alamat": "Jl. Siliwangi Jl. Ring Road Utara, Jombor Lor, Sendangadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55285",
+                "Akreditasi": "B"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.35500794649124,
+                            -7.746853921243173
+                        ],
+                        [
+                            110.35477191209792,
+                            -7.747326996792733
+                        ],
+                        [
+                            110.35470485687256,
+                            -7.747600742514093
+                        ],
+                        [
+                            110.3545868396759,
+                            -7.747863857165949
+                        ],
+                        [
+                            110.35450100898743,
+                            -7.748453871242122
+                        ],
+                        [
+                            110.35450100898743,
+                            -7.748631938391001
+                        ],
+                        [
+                            110.35446345806122,
+                            -7.748730273948419
+                        ],
+                        [
+                            110.35438030958176,
+                            -7.748788743728419
+                        ],
+                        [
+                            110.35439640283585,
+                            -7.748937575859065
+                        ],
+                        [
+                            110.35447150468825,
+                            -7.749006676473272
+                        ],
+                        [
+                            110.35444736480713,
+                            -7.749190058817519
+                        ],
+                        [
+                            110.35467803478241,
+                            -7.7492113205334245
+                        ],
+                        [
+                            110.35464853048325,
+                            -7.749392045075268
+                        ],
+                        [
+                            110.35438567399979,
+                            -7.749381414222016
+                        ],
+                        [
+                            110.35435616970062,
+                            -7.749503669018248
+                        ],
+                        [
+                            110.35432666540146,
+                            -7.749708312836831
+                        ],
+                        [
+                            110.35578310489655,
+                            -7.749788044167806
+                        ],
+                        [
+                            110.35582333803177,
+                            -7.749434568485603
+                        ],
+                        [
+                            110.35597890615463,
+                            -7.748182783796266
+                        ],
+                        [
+                            110.35605937242508,
+                            -7.747528983944142
+                        ],
+                        [
+                            110.3561183810234,
+                            -7.747207399091626
+                        ],
+                        [
+                            110.35500794649124,
+                            -7.746853921243173
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Universitas Ahmad Dahlan Yogyakarta",
+                "Alamat": "Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166",
+                "Akreditasi": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.3817053060265,
+                            -7.7983558483003605
+                          ],
+                          [
+                            110.3817053060265,
+                            -7.799351669747182
+                          ],
+                          [
+                            110.38331856302062,
+                            -7.7995776120988864
+                          ],
+                          [
+                            110.38345370496882,
+                            -7.7985901594419715
+                          ],
+                          [
+                            110.3817053060265,
+                            -7.7983558483003605
+                          ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 2,
+                "stroke-opacity": 0.5,
+                "fill": "#ff0000",
+                "fill-opacity": 0.5,
+                "Kampus": "Sekolah Tinggi Pertanahan Nasional (STPN)",
+                "Alamat": "Jl. Tata Bumi No.5, Area Sawah, Banyuraden, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55293",
+                "Akreditasi": "A"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            110.34263625741005,
+                            -7.781825526930918
+                        ],
+                        [
+                            110.34211993217468,
+                            -7.783893063152571
+                        ],
+                        [
+                            110.34212797880173,
+                            -7.7839462130495365
+                        ],
+                        [
+                            110.3421440720558,
+                            -7.7839887329622535
+                        ],
+                        [
+                            110.34218966960907,
+                            -7.784020622893955
+                        ],
+                        [
+                            110.34345299005507,
+                            -7.7844298768021405
+                        ],
+                        [
+                            110.34354150295258,
+                            -7.784129580142311
+                        ],
+                        [
+                            110.34477531909943,
+                            -7.78438735693418
+                        ],
+                        [
+                            110.34480482339859,
+                            -7.7842757422602515
+                        ],
+                        [
+                            110.34518837928772,
+                            -7.784366096998584
+                        ],
+                        [
+                            110.34526884555817,
+                            -7.784225249898001
+                        ],
+                        [
+                            110.34361392259596,
+                            -7.78386914569675
+                        ],
+                        [
+                            110.34378290176392,
+                            -7.783236661369549
+                        ],
+                        [
+                            110.34550219774246,
+                            -7.783683120993702
+                        ],
+                        [
+                            110.345598757267,
+                            -7.783473178729672
+                        ],
+                        [
+                            110.34560412168503,
+                            -7.7831649088856025
+                        ],
+                        [
+                            110.34552365541458,
+                            -7.782729078719239
+                        ],
+                        [
+                            110.34471899271011,
+                            -7.7825430535102536
+                        ],
+                        [
+                            110.34474849700928,
+                            -7.782436753353765
+                        ],
+                        [
+                            110.34402161836624,
+                            -7.7822613580366395
+                        ],
+                        [
+                            110.34404307603836,
+                            -7.782168345338683
+                        ],
+                        [
+                            110.34263625741005,
+                            -7.781825526930918
+                        ]
+                    ]
+                ]
+            }
+        }
+        
+        
+    ]
+}
